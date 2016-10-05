@@ -1,0 +1,18 @@
+term	section	course	instructor	whenWhere
+Fall 2006	8235	MATH-075	Abadia	TTH 7:00-7:30pm LC-206
+Spring 2005	8065	SPAN-155	Abbott-Walker	M 7:00-9:50pm BFL-111
+Spring 2004	8068	SPAN-156	Abbott-Walker	TH 7:00-9:50pm H-117
+Spring 2010	8070	SPAN-157	Abbott-Walker	T 7:00-9:50pm H-106
+Spring 2010	8080	SPAN-156	Abbott-Walker	T 7:00-9:50pm H-106
+Spring 2002	8102	SPAN-155	Abbott-Walker	W 7:00-9:50pm H-113
+Fall 2006	8235	MATH-075	Abadia	TTH 7:00-7:30pm LC-206
+Spring 2006	8065	SPAN-155	Abbott-Walker	M 7:00-9:50pm BFL-111
+Spring 2008	8065	SPAN-155	Abbott-Walker	M 7:00-9:50pm H-108
+Spring 2009	8065	SPAN-155	Abbott-Walker	M 7:00-10:05pm H-107
+Fall 2006	8235	MDFH-075	Abadia	TTH 7:00-7:30pm LC-206
+Spring 2008	8531	DRAMA-126	Abbott	S 12:00-3:20pm PACLobby 1/26-5/17
+Spring 2004	8531	DRAMA-126	Abbott	T 7:00-9:50pm PACLobby
+Spring 2002	8531	DRAMA-126	Abbott	T 7:00-9:50pm PACLobby
+Spring 2005	8531	DRAMA-126	Abbott	M 7:00-9:50pm PACLobby
+Spring 2007	8065	SPAN-155	Abbott-Walker	M 7:00-9:50pm BFL-111
+
